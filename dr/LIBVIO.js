@@ -6,7 +6,7 @@ var rule = {
 	title:'LIBVIO',
 	模板:'首图2',
 	// host:'https://tv.libvio.cc',
-	host:'https://www.libvio.cc',
+	host:'https://libvio.app',
 	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"li:eq(0)&&a:eq(0)&&href");print(src);HOST=src',
 	// url:'/type/fyclass-fypage.html',
 	url:'/show/fyclassfyfilter.html',
@@ -34,7 +34,7 @@ var from = html.from;
 var next = html.link_next;
 var id = html.id;
 var nid = html.nid;
-var paurl = request("https://www.libvio.cc/static/player/" + from + ".js").match(/ src="(.*?)'/)[1];
+var paurl = request("https://libvio.cc/static/player/" + from + ".js").match(/ src="(.*?)'/)[1];
 if (/https/.test(paurl)) {
 	var purl = paurl + url + "&next=" + next + "&id=" + id + "&nid=" + nid;
 	input = {
