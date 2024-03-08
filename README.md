@@ -1,1 +1,26 @@
-# tea
+### 仓库  
+[o0HalfLife0o](https://github.com/o0HalfLife0o/TVBoxOSC)  
+[q215613905](https://github.com/q215613905/TVBoxOS)  
+[takagen99](https://github.com/takagen99/Box)  
+[FongMi](https://github.com/FongMi/TV)  
+[dr_py](https://github.com/hjdhnx/dr_py)
+### 参考  
+[dxawi/0](https://github.com/dxawi/0)  
+[gaotianliuyun/gao](https://github.com/gaotianliuyun/gao)  
+[FongMi/CatVodSpider](https://github.com/FongMi/CatVodSpider)  
+[Yoursmile7](https://agit.ai/Yoursmile7/TVBox)、[饭太硬](https://www.饭太硬.top)、[菜妮丝](https://tvbox.cainisi.cf/mao.html)  
+[Tk_20240117-2140](https://mirror.ghproxy.com/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240117-2140/TVBox_takagen99_20240117-2140.apk)、
+[F-v7a](https://mirror.ghproxy.com/https://github.com/FongMi/Release/blob/main/apk/release/leanback-java-armeabi_v7a.apk)
+### 其它
+[EPG 112114](https://epg.112114.eu.org/)  
+[wcb1969/iptv](https://github.com/wcb1969/iptv)  
+[iptvzb/tv](https://github.com/iptvzb/tv)  
+[Vincentvip/Live](https://github.com/Vincentvip/Live)  
+[GhTGc/zbdhj](https://github.com/GhTGc/GhTGc.github.io)  
+[llxxcc2025/gudou](https://github.com/llxxcc2025/llxxcc2025)  
+[fanmingming/live](https://github.com/fanmingming/live)  
+[YanG-1989/m3u](https://github.com/YanG-1989/m3u)  
+[YueChan/Live](https://github.com/YueChan/Live)  
+[GuangdongIPTV](https://github.com/Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List)  
+[https://mirror.ghproxy.com/](https://mirror.ghproxy.com/)  
+[https://github.moeyy.xyz/](https://github.moeyy.xyz/)  
