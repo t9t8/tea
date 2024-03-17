@@ -16,12 +16,12 @@
 
 {"key":"酷看","name":"酷看（SP）","type":3,"api":"csp_Kkys","searchable":1,"changeable":1},
 {"key":"新6V","name":"新6V（SP）","type":3,"api":"csp_SixV","searchable":1,"changeable":0,"ext":"https://www.xb6v.com/"},
-{"key":"玩偶哥哥","name":"玩偶（SP）","type":3,"api":"csp_WoGG","searchable":1,"changeable":0,"ext":"91a543c5932d438f912b53f2fdeb6d80$$$https://www.wogg.xyz/$$$弹"},
-{"key":"YiSo","name":"易搜（SP）","type":3,"api":"csp_YiSo","searchable":1,"changeable":0,"ext":"91a543c5932d438f912b53f2fdeb6d80"},
-{"key":"PanSearch","name":"盘搜（SP）","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"ext":"91a543c5932d438f912b53f2fdeb6d80"},
-{"key":"UpYun","name":"Up搜（SP）","type":3,"api":"csp_UpYun","searchable":1,"changeable":0,"ext":"91a543c5932d438f912b53f2fdeb6d80"},
+{"key":"玩偶哥哥","name":"玩偶（SP）","type":3,"api":"csp_WoGG","searchable":1,"changeable":0,"ext":"684ed37a9f5d471286da854972246f92$$$https://www.wogg.xyz/$$$弹"},
+{"key":"YiSo","name":"易搜（SP）","type":3,"api":"csp_YiSo","searchable":1,"changeable":0,"ext":"684ed37a9f5d471286da854972246f92"},
+{"key":"PanSearch","name":"盘搜（SP）","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"ext":"684ed37a9f5d471286da854972246f92"},
+{"key":"UpYun","name":"Up搜（SP）","type":3,"api":"csp_UpYun","searchable":1,"changeable":0,"ext":"684ed37a9f5d471286da854972246f92"},
 
-{"key":"push_agent","name":"推送（SP）","type":3,"api":"csp_Push","searchable":1,"changeable":0,"ext":"91a543c5932d438f912b53f2fdeb6d80"}
+{"key":"push_agent","name":"推送（SP）","type":3,"api":"csp_Push","searchable":1,"changeable":0,"ext":"684ed37a9f5d471286da854972246f92"}
 ],
 
 "parses":[

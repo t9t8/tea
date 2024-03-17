@@ -8,7 +8,7 @@
 [dxawi/0](https://github.com/dxawi/0)  
 [gaotianliuyun/gao](https://github.com/gaotianliuyun/gao)  
 [FongMi/CatVodSpider](https://github.com/FongMi/CatVodSpider)  
-[Yoursmile7](https://agit.ai/Yoursmile7/TVBox)、[饭太硬](https://www.饭太硬.top)、[菜妮丝](https://tvbox.cainisi.cf/mao.html)  
+[Yoursmile7](https://agit.ai/Yoursmile7/TVBox)、[饭太硬](https://www.饭太硬.top)  
 [Tk_20240117-2140](https://mirror.ghproxy.com/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240117-2140/TVBox_takagen99_20240117-2140.apk)、
 [F-v7a](https://mirror.ghproxy.com/https://github.com/FongMi/Release/blob/main/apk/release/leanback-java-armeabi_v7a.apk)
 ### 其它
